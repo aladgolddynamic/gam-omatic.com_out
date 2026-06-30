@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[9728,["177","static/chunks/app/layout-bad35f2a710b2396.js"],"MotionProvider"]
+3:I[68172,[],""]
+4:I[97210,[],""]
+:HL["/_next/static/css/d4f2d101219acc98.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d4f2d101219acc98.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"h-full","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}]]}],["$","body",null,{"className":"min-h-full flex flex-col antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eAH3F8_bp5Ec7dz1GreLy"}

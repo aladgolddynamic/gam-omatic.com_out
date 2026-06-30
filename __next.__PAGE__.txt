@@ -1,0 +1,14 @@
+1:"$Sreact.fragment"
+2:I[58829,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Header"]
+3:I[94986,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Hero"]
+4:I[19737,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"ScrollAnimation"]
+5:I[30044,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Manifesto"]
+6:I[60458,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Services"]
+7:I[27450,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Portfolio"]
+8:I[44773,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Process"]
+9:I[15374,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Testimonials"]
+a:I[15847,["509","static/chunks/509-05ed594cd7db8503.js","974","static/chunks/app/page-e6672e8b32dd75d2.js"],"Footer"]
+b:I[78937,[],"OutletBoundary"]
+c:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-[#FFFFFF] min-h-screen text-[#1A1A1A] selection:bg-[#FF6B00] selection:text-white","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Gam-Omatic Multicompany Ltd\",\"url\":\"https://www.gam-omatic.com\",\"logo\":\"https://www.gam-omatic.com/favicon.png\",\"description\":\"Gam-Omatic Multicompany Ltd delivers integrated business solutions across consultancy, procurement, project management, technology services, engineering, and infrastructure development.\"}"}}],["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],["$","$La",null,{}]]}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eAH3F8_bp5Ec7dz1GreLy"}
+d:null

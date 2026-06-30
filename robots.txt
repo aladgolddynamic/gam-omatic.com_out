@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.gam-omatic.com
+Sitemap: https://www.gam-omatic.com/sitemap.xml
